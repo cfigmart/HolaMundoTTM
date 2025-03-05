@@ -49,6 +49,12 @@ fun PreviewSaludador(){
     Saludador("Cristhian")
 }
 
+@Preview
+@Composable
+fun PreviewSaludador2(){
+    Saludador("Jose")
+}
+
 
 @Preview
 @Composable
