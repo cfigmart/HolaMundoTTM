@@ -61,7 +61,7 @@ fun PreviewSaludador2(){
 fun PreviewSaludadorConTema(){
     HolaMundoTTMTheme {
         Surface(
-            color = MaterialTheme.colorScheme.primaryContainer
+            color = MaterialTheme.colorScheme.secondaryContainer
         ) {
             Saludador("Telematica")
         }
